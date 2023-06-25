@@ -1,0 +1,49 @@
+body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color:  hsl(212, 45%, 89%);
+   
+    
+
+}
+/* .transparent-wrapping{
+    margin: 200px 50px;
+     background-color: ;
+      border: solid white ; 
+      display: flexbox;
+      justify-content: center;
+      /* background-color: rgb(25, 18, 225); */
+ 
+     
+
+.blue-wrapping{
+    align-items: center;
+    margin: 200px 600px ;
+    display: flexbox;
+    justify-content: center;
+    background-color: white;
+    border-radius: 15px;
+    
+}
+.wrapping{
+    
+    text-align: center;
+    font-family: outfit;
+    background-color:white;
+    padding: 20px 10px;
+    
+    
+    border-radius: 10px;
+    width: 320px;
+    
+}
+.wrapping img{
+    width: 300px;
+
+
+}
+/* White: hsl(0, 0%, 100%)
+- Light gray: hsl(212, 45%, 89%)
+- Grayish blue: hsl(220, 15%, 55%)
+- Dark blue: hsl(218, 44%, 22%) */
